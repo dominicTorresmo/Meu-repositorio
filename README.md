@@ -2,6 +2,8 @@
 
 > informações sobre o meu repositório
 
+em desenvolvimento
+
 # Indice
 
 * [html](https://github.com/dominicTorresmo/Meu-repositorio/blob/main/index.html)
