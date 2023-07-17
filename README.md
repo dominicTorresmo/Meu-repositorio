@@ -8,6 +8,12 @@
   - [app.js](app.js)
 </details>
 
+<details>
+  <summary><b>HTML</b></summary>
+
+  - [HTML](index.html)
+</details>
+
 
 em desenvolvimento
 
